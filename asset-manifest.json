@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ab08b8d4.chunk.css",
+    "main.js": "/static/js/main.bed091fc.chunk.js",
+    "main.js.map": "/static/js/main.bed091fc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.89d0faaf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.89d0faaf.js.map",
+    "static/js/2.df4c158d.chunk.js": "/static/js/2.df4c158d.chunk.js",
+    "static/js/2.df4c158d.chunk.js.map": "/static/js/2.df4c158d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a55883d1dbfe0f715ed253552721818b.js": "/precache-manifest.a55883d1dbfe0f715ed253552721818b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.ab08b8d4.chunk.css.map": "/static/css/main.ab08b8d4.chunk.css.map",
+    "static/js/2.df4c158d.chunk.js.LICENSE.txt": "/static/js/2.df4c158d.chunk.js.LICENSE.txt",
+    "static/media/black-car.jpg": "/static/media/black-car.f51445d4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89d0faaf.js",
+    "static/js/2.df4c158d.chunk.js",
+    "static/css/main.ab08b8d4.chunk.css",
+    "static/js/main.bed091fc.chunk.js"
+  ]
+}
